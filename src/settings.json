@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip.",
+        "title": "Welcome to Drop: Redefining Your Coffee Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Welcome to Drop: Redefining Your Coffee Experience",
+  "subtitle": "Discover the perfect brew at our cozy coffee hut and elevate your daily ritual with every sip."
+}
